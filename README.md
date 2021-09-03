@@ -1,2 +1,5 @@
-# linear_regression
+# Линейная регрессия
+В этом мини-исследовании линейная регрессия будет применятся для прогнозирования роста человека по его весу. 
+
+Источник данных: http://wiki.stat.ucla.edu/socr/index.php/SOCR_Data_Dinov_020108_HeightsWeights
  
